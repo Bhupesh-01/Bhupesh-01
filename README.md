@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on webDev
 - 📫 How to reach me ...txt
 - 😄 Pronouns: He
-- ⚡ Fun fact: Comedi
+- ⚡ Fun fact: travel 
 
 <!---
 Bhupesh-01/Bhupesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
