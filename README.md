@@ -5,8 +5,7 @@
 - 📫 How to reach me.. txt
 - 😄 Pronouns: He
 - ⚡ Fun fact: travel
-- https://app.netlify.com/teams/bhupesh-01/overview
-- 
+- https://app.netlify.com/teams/bhupesh-01/sites
 
 <!---
 Bhupesh-01/Bhupesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
