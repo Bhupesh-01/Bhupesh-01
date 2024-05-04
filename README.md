@@ -2,9 +2,11 @@
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on webDev
-- 📫 How to reach me ...txt
+- 📫 How to reach me.. txt
 - 😄 Pronouns: He
-- ⚡ Fun fact: travel 
+- ⚡ Fun fact: travel
+- https://app.netlify.com/teams/bhupesh-01/overview
+- 
 
 <!---
 Bhupesh-01/Bhupesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
