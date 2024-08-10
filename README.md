@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhupesh-01
-- 👀 I’m interested in devlopment
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on DevOps
+- 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me.. txt
 - 😄 Pronouns: He
 - ⚡ Fun fact: travel
