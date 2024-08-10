@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhupesh-01
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me.. txt
 - 😄 Pronouns: He
