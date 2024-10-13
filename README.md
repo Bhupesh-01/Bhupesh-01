@@ -8,7 +8,6 @@
 - https://app.netlify.com/teams/bhupesh-01/sites
 - https://dashboard.render.com/
 ![Reference Image](/coder.jpg)
-![Reference Image](/https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif)
 - Creativity is here https://bhupesh-01.github.io/my-portfolio/
 <!---
 Bhupesh-01/Bhupesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
