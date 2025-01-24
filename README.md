@@ -7,6 +7,7 @@
 - ⚡ Fun fact: travel
 - https://app.netlify.com/teams/bhupesh-01/sites
 - https://dashboard.render.com/
+- https://dash.infinityfree.com/accounts
 
 - ![Reference Image](/coder.png)
 - Creativity is here https://bhupesh-01.github.io/my-portfolio/
