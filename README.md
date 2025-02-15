@@ -15,3 +15,4 @@
 Bhupesh-01/Bhupesh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Bhupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhupesh-01&show_icons=true&theme=radical)
