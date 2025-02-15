@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Bhupesh-01
-- 👀 I’m interested in tech
+👋 Hi, I’m @Bhupesh-01
 - 💞️ I’m looking to collaborate on Projects
 
   
