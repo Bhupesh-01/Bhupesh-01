@@ -1,4 +1,4 @@
-👋 Hi, I’m @Bhupesh-01
+👋 Hi, I’m Bhupesh
 - 💞️ I’m looking to collaborate on Projects
 
 <div align="center">
