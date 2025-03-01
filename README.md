@@ -18,11 +18,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupesh-01&layout=compact&theme=radical" />
 </div>
 
-<h2  align="center">📫 Reach me on</h2>
+<h2  align="center">📫 Contact to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/bhupesh-pawara-a6981625b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bhupeshpawara01@gmail.com?subject=Hello%20Bhupesh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bhupeshpawara01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
 </p>
+
+
 
 <!-- <img width="240" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupesh-01&layout=donut&theme=tokyonight&show_icons=true" /> -->
 
