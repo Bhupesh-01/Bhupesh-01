@@ -1,8 +1,8 @@
-
 <h1 align="center">👋 Hi, i'm Bhupesh!  </h1>
 
 <h2 align="center"> 👨‍💻 </h2>
 <p align="center">
+   <i class="fa fa-cog fa-spin"></i>
   <samp>A curious computer programmer   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Bhupesh-01" alt="https://github.com/Bhupesh-01" />
